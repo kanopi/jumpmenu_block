@@ -1,0 +1,19 @@
+jumpmenu:
+  css:
+    theme:
+      css/jumpmenu.css: {  }
+  js:
+    js/jumpmenu.behaviors.js: {  }
+    js/jquery.waypoints.js: { minified: true }
+    js/waypoints-sticky.js: { minified: true }
+  dependencies:
+    - core/jquery
+    - core/jquery.once
+    - core/drupalSettings
+    - jumpmenu_block/jquery.toc
+
+jquery.toc:
+  js:
+    lib/plugins/jquery.toc.js: {  }
+  dependencies:
+    - core/jquery

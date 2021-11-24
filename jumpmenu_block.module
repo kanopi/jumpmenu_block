@@ -1,0 +1,18 @@
+<?php
+
+/**
+ * @file
+ * Contains jumpmenu_block.module.
+ */
+
+function jumpmenu_block_theme($existing, $type, $theme, $path) {
+  return [
+    'jumpmenu' => [
+      'variables' => [
+        'title' => NULL,
+      ],
+    ],
+  ];
+}
+
+function template_preprocess_jumpmenu(&$variables) {}

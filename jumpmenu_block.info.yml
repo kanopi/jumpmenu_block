@@ -1,0 +1,6 @@
+name: 'Jumpmenu Block'
+type: module
+description: 'Custom Jumpmenu behaviors using jquery.toc library.'
+core_version_requirement: ^8 || ^9
+package: 'Custom'
+version: VERSION

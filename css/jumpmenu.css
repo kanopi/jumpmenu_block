@@ -1,0 +1,20 @@
+.jumpmenu-container .content-title {
+  text-transform: capitalize;
+  font-size: 1em;
+  line-height: 1.33em;
+}
+
+.jumpmenu-container .jumpmenu {
+  padding: 0;
+  list-style: none;
+}
+
+.jumpmenu-container.jumpmenu li {
+  list-style: none;
+  padding: 0;
+}
+
+.jumpmenu-container.jumpmenu li a {
+  display: block;
+  text-decoration: none;
+}
