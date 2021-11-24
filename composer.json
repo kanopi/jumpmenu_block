@@ -1,0 +1,19 @@
+{
+    "name": "kanopi/jumpmenu_block",
+    "type": "drupal-module",
+    "description": "Integrates jquery.toc for jumpmenu blocks",
+    "keywords": ["Drupal"],
+    "license": "GPL-2.0+",
+    "homepage": "https://github.com/kanopi/jumpmenu_block",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://github.com/kanopi/jumpmenu_block",
+        "source": "https://github.com/kanopi/jumpmenu_block"
+    },
+    "repositories": {
+        "drupal": {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    }
+}
